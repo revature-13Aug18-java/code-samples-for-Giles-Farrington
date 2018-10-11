@@ -6,12 +6,13 @@
 My goal for project zero was to create a mock banking ATM system, with user interaction through only the console.
 	
 Users are able to:
-	* Create a user account with username and password
-	* Login/logout with user account
-	* Create bank accounts (checking or savings) and name them
-	* Delete bank accounts
-	* Deposit and withdraw into created accounts
-	* View balance on accounts 
+
+* Create a user account with username and password
+* Login/logout with user account
+* Create bank accounts (checking or savings) and name them
+* Delete bank accounts
+* Deposit and withdraw into created accounts
+* View balance on accounts 
 
 **Project 1 - Expense Reimbursement System:**
 	
@@ -39,15 +40,15 @@ Our goal was to provide an electronic source to organize, view, and sign-up for 
 	
 Revature employees are able to:
 
-	* Access application through browser
-	* Create an account
-	* Update account information
-	* Login/logout with created account
-	* View upcoming events on homepage
-	* Create an event 
-	* Search for specific events 
-	* RSVP to an event 
-	* View information and location of a specific event 
+* Access application through browser
+* Create an account
+* Update account information
+* Login/logout with created account
+* View upcoming events on homepage
+* Create an event 
+* Search for specific events 
+* RSVP to an event 
+* View information and location of a specific event 
 	
 
 **Project 3 - RideForce Rideshare Application:**
@@ -58,17 +59,17 @@ Thus our goal was to create a mobile friendly single page web application in whi
 	
 Revature employees are able to:
 
-	* Access application through phone/desktop browser
-	* Trainers can create accounts and generate code for their batch to create accounts
-	* New employees can create an account with a generated code given by their trainer
-	* When registering new account determine whether a driver and can give rides or a passenger and looking for rides
-	* Login/logout with created account 
-	* View information on how to use the application through the about page
-	* Edit account information
-	* If passenger account, able to swipe through drivers, view some information about them, and like/dislike them
-	* Order of swipeable drivers determined by location, so closer drivers will appear first
-	* Drivers can view profiles which have liked them, view their profile and like/dislike them
-	* If passenger and driver like eachother, they can view contact information and contact eachother about future rides
-	* View map where it focuses on your location and pins are located where nearby drivers/employees currently reside
-	* View list of drivers which you have previously liked 
+* Access application through phone/desktop browser
+* Trainers can create accounts and generate code for their batch to create accounts
+* New employees can create an account with a generated code given by their trainer
+* When registering new account determine whether a driver and can give rides or a passenger and looking for rides
+* Login/logout with created account 
+* View information on how to use the application through the about page
+* Edit account information
+* If passenger account, able to swipe through drivers, view some information about them, and like/dislike them
+* Order of swipeable drivers determined by location, so closer drivers will appear first
+* Drivers can view profiles which have liked them, view their profile and like/dislike them
+* If passenger and driver like eachother, they can view contact information and contact eachother about future rides
+* View map where it focuses on your location and pins are located where nearby drivers/employees currently reside
+* View list of drivers which you have previously liked 
 		
