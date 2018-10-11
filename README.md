@@ -19,15 +19,15 @@ For project one I created an employee expense reimbursement system as a single p
 	
 Users are able to:
 
-	* Access the application through their browser
-	* Create an employee account 
-	* Create a finance manager account
-	* Login/logout with desired account type
-	* Employee accounts can create reimbursement 
-	* Employees can view previously submitted reimbursements and see whether they are pending, denied, or approved
-	* Finance managers can view every submitted reimbursement request from all employees
-	* Finance managers can filter reimbursements to only view pending 
-	* Finance managers can approve or deny pending reimbursements 
+* Access the application through their browser
+* Create an employee account 
+* Create a finance manager account
+* Login/logout with desired account type
+* Employee accounts can create reimbursement 
+* Employees can view previously submitted reimbursements and see whether they are pending, denied, or approved
+* Finance managers can view every submitted reimbursement request from all employees
+* Finance managers can filter reimbursements to only view pending 
+* Finance managers can approve or deny pending reimbursements 
 
 **Project 2 - Revature Events Application:**
 	
