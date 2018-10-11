@@ -1,7 +1,7 @@
 
-#Completed Project Information#
+# Project Information #
 
-**Project 0 - Banking Application:**
+### Project 0 - Banking Application: ###
 	
 My goal for project zero was to create a mock banking ATM system, with user interaction through only the console.
 	
@@ -14,7 +14,7 @@ Users are able to:
 * Deposit and withdraw into created accounts
 * View balance on accounts 
 
-**Project 1 - Expense Reimbursement System:**
+### Project 1 - Expense Reimbursement System: ###
 	
 For project one I created an employee expense reimbursement system as a single page web application. 
 	
@@ -30,7 +30,7 @@ Users are able to:
 * Finance managers can filter reimbursements to only view pending 
 * Finance managers can approve or deny pending reimbursements 
 
-**Project 2 - Revature Events Application:**
+### Project 2 - Revature Events Application: ###
 	
 Revature has specific events for employees usually determined on a monthly basis. 
 These events include recurring events such as gameboard night, where employees get together and play popular boardgames 
@@ -51,7 +51,7 @@ Revature employees are able to:
 * View information and location of a specific event 
 	
 
-**Project 3 - RideForce Rideshare Application:**
+### Project 3 - RideForce Rideshare Application: ###
 
 For new Revature employees without a car, it can be difficult to find a ride to work without expensive alternatives.
 This initial difficulty for some new employees may turn them off from the Revature experience.
