@@ -64,16 +64,16 @@ Thus our goal was to create a mobile friendly single page web application in whi
 Revature employees are able to:
 
 * Access application through phone/desktop browser
-* Trainers can create accounts and generate code for their batch to create accounts
-* New employees can create an account with a generated code given by their trainer
-* When registering new account determine whether a driver and can give rides or a passenger and looking for rides
+* Create trainer accounts and generate code for their batch to create accounts
+* Create an account with a generated code given by their trainer
+* While registering new account, specify whether a driver and can give rides or a passenger and looking for rides
 * Login/logout with created account 
 * View information on how to use the application through the about page
 * Edit account information
-* If passenger account, able to swipe through drivers, view some information about them, and like/dislike them
+* If passenger account, swipe through drivers, view some information about them, and like/dislike them
 * Order of swipeable drivers determined by location, so closer drivers will appear first
-* Drivers can view profiles which have liked them, view their profile and like/dislike them
-* If passenger and driver like eachother, they can view contact information and contact eachother about future rides
+* If driver, view profiles which have liked them and like/dislike them
+* If passenger and driver like eachother, view contact information and contact eachother about future rides
 * View map where it focuses on your location and pins are located where nearby drivers/employees currently reside
 * View list of drivers which you have previously liked 
 		
