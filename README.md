@@ -5,7 +5,7 @@
 	
 My goal for project zero was to create a mock banking ATM system, with user interaction through only the console.
 	
-Users are able to:
+**Users are able to:**
 
 * Create a user account with username and password
 * Login/logout with user account
@@ -18,7 +18,7 @@ Users are able to:
 	
 For project one I created an employee expense reimbursement system as a single page web application. 
 	
-Users are able to:
+**Users are able to:**
 
 * Access the application through their browser
 * Create an employee account 
@@ -40,7 +40,7 @@ and enjoy pizza provided by Revature. Some other examples of events are bicycle 
 These events provided are all organized through paper, such as posters to advertise event and sign-up sheets to sign up.
 Our goal was to provide an electronic source to organize, view, and sign-up for these events through a single page web application.
 	
-Revature employees are able to:
+**Revature employees are able to:**
 
 * Access application through browser
 * Create an account
@@ -61,7 +61,7 @@ For new Revature employees without a car, it can be difficult to find a ride to 
 This initial difficulty for some new employees may turn them off from the Revature experience.
 Thus our goal was to create a mobile friendly single page web application in which employees can interact with eachother to determine rides in a simple and intuitive manner.
 	
-Revature employees are able to:
+**Revature employees are able to:**
 
 * Access application through phone/desktop browser
 * Create trainer accounts and generate code for their batch to create accounts
