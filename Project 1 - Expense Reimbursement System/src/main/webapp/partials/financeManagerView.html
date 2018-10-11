@@ -1,0 +1,98 @@
+<div id = "financeManagerView">
+	<div class="row" style="margin-left: 1px">
+		<h4>Finance Manager View: &nbsp  </h4>
+		<h4 id="financeManagerName"></h4>
+	</div>
+	<br>
+	
+ <div class="container" style="margin-left: -17px">
+  <div class="dropdown">
+    <button class="btn btn-danger dropdown-toggle" type="button" data-toggle="dropdown" id="drop">Filter Tickets
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu">
+      <li><a href="#showAll" id="all" style="color:red">Show All</a></li>
+      <li><a href="#showUnresolved" id="unresolved" style="color:red">Show Unresolved</a></li>
+    </ul>
+  </div>
+</div>
+<br>
+<br>
+	<div id = "reimbursementView">
+	<table class="table table-sm table-hover table-bordered thead-light">
+		<thead style = "background-color: #b53b3b; color: white">
+			<tr>
+				<th scope = 'col'> Amount </th>
+				<th scope = 'col'> Submitted </th>
+				<th scope = 'col'> Resolved </th>
+				<th scope = 'col'> Desc. </th>
+				<th scope = 'col'> Author</th>
+				<th scope = 'col'> Resolver</th>
+				<th scope = 'col'> Status </th>
+				<th scope = 'col'> Type </th>
+				<th scope = 'col'> Approve/Deny</th>
+			</tr>
+		</thead>
+		<tbody id="reimbTable">
+		</tbody>
+	</table>
+</div>
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Resolve Reimbursement</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        How would you like to resolve the reimbursement request?
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-success" id="resolveApprove" data-dismiss="modal">Approve</button>
+        <button type="button" class="btn btn-warning" id="resolveDeny" data-dismiss="modal">Deny</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div>
+ 	<button id="newUserAccount" class="btn btn-success">Create New Account</button>
+ 	<button id="logout" class="btn btn-warning">Log out</button>
+ </div>
+    <br>
+    <div id="createNewUser" style="display: none">
+    	<h5>Create New Account: </h5>
+    	<br>
+    	<div class="form-group row">
+    		<div class = "col-5">
+    			<span>Enter Username:</span>
+				<input type="text" id="newUsername" class="form-control" placeholder="New username">
+				<span>Enter password:</span>
+    			<input type="password" id="newPassword" class="form-control" placeholder="password">
+    			<span>Enter first name:</span>
+    			<input type="text" id="firstname" class="form-control" placeholder="First name">
+    			<span>Enter last name:</span>
+    			<input type="text" id="lastname" class="form-control" placeholder="Last name">
+    			<span>Enter email address:</span>
+    			<input type="text" id="email" class="form-control" placeholder="email">
+    		</div>
+    	</div>
+    	<div class="form-check">
+       		<input type="radio" id="newEmployee" class="form-check-input" value="1" name="newUserType">
+        	<label class="form-check-label" for="newEmployee">
+            	Are you an employee?
+        	</label>
+    	</div>
+    	<div class="form-check">
+        	<input type="radio" id="newFinanceManager" class="form-check-input" value="2" name="newUserType">
+        	<label class="form-check-label" for="newFinanceManager">
+            	Are you a Finance Manager?
+        	</label>
+    	</div>
+    	<br>
+    	<button id="submitUser" class="btn btn-danger">Submit new account</button>
+    		
+    	
+    </div>
+   </div>

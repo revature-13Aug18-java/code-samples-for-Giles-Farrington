@@ -1,0 +1,61 @@
+<div class="row" style="margin-left: 2px">
+	<h4> Hello: &nbsp  </h4>
+	<h4 id="employeeName"> </h4>
+</div>
+<h4 id="employeeName"> </h4>
+
+<h5> Your previous tickets: </h5>
+<br>
+<div id = "reimbursementView">
+	<table class="table table-sm table-hover table-bordered thead-light" id="rTable">
+		<thead style = "background-color: #b53b3b; color: white">
+			<tr>
+				<th scope = 'col'> Amount </th>
+				<th scope = 'col'> Submitted </th>
+				<th scope = 'col'> Resolved </th>
+				<th scope = 'col'> Desc. </th>
+				<th scope = 'col'> Author</th>
+				<th scope = 'col'> Resolver</th>
+				<th scope = 'col'> Status </th>
+				<th scope = 'col'> Type </th>
+			</tr>
+		</thead>
+		<tbody id="reimbTable">
+		</tbody>
+	</table>
+</div>
+<div>
+	<button id="newReimb" class="btn btn-success">Add Reimbursement Request</button>
+	<button id="logout" class="btn btn-warning">Log out</button>
+</div>
+<div id="createNewReimb" style="display: none">
+	<div class="form-group row">
+		<div class="col-5">
+			<br>
+			<span>Enter cash value of reimbursement: </span>
+			<input type="number" id="amount" class="form-control" placeholder="amount">
+			<span>Enter reimbursement description(below 250 characters):</span>
+    		<input type="text" id="description" class="form-control" placeholder="description">
+    	</div>
+    </div>
+    <div class="form-check">
+        <input type="radio" id="business" class="form-check-input" value="option1" name="ReimbType">
+        <label class="form-check-label" for="business">
+            Business
+        </label>
+    </div>
+    <div class="form-check">
+        <input type="radio" id="travel" class="form-check-input" value="option2" name="ReimbType">
+        <label class="form-check-label" for="travel">
+            Travel
+        </label>
+    </div>
+    <div class="form-check">
+        <input type="radio" id="medical" class="form-check-input" value="option3" name="ReimbType">
+        <label class="form-check-label" for="medical">
+            Medical
+        </label>
+    </div>
+    <br>
+    <button id="submitTicket" class="btn btn-danger">Submit new Ticket</button>
+</div>
