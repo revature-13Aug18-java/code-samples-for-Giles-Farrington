@@ -18,6 +18,7 @@ Users are able to:
 For project one I created an employee expense reimbursement system as a single page web application. 
 	
 Users are able to:
+
 	* Access the application through their browser
 	* Create an employee account 
 	* Create a finance manager account
@@ -37,6 +38,7 @@ These events provided are all organized through paper, such as posters to advert
 Our goal was to provide an electronic source to organize, view, and sign-up for these events through a single page web application.
 	
 Revature employees are able to:
+
 	* Access application through browser
 	* Create an account
 	* Update account information
@@ -55,6 +57,7 @@ This initial difficulty for some new employees may turn them off from the Revatu
 Thus our goal was to create a mobile friendly single page web application in which employees can interact with eachother to determine rides in a simple and intuitive manner.
 	
 Revature employees are able to:
+
 	* Access application through phone/desktop browser
 	* Trainers can create accounts and generate code for their batch to create accounts
 	* New employees can create an account with a generated code given by their trainer
