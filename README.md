@@ -31,6 +31,8 @@ Users are able to:
 * Finance managers can approve or deny pending reimbursements 
 
 ### Project 2 - Revature Events Application: ###
+
+Link to repository: https://github.com/RaymondKADuncan/RevatureEventsApp
 	
 Revature has specific events for employees usually determined on a monthly basis. 
 These events include recurring events such as gameboard night, where employees get together and play popular boardgames 
@@ -52,6 +54,8 @@ Revature employees are able to:
 	
 
 ### Project 3 - RideForce Rideshare Application: ###
+
+Link to Repository: https://github.com/revaturelabs/rideshare-client
 
 For new Revature employees without a car, it can be difficult to find a ride to work without expensive alternatives.
 This initial difficulty for some new employees may turn them off from the Revature experience.
