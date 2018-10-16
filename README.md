@@ -13,11 +13,11 @@ An employee expense reimbursement system implemented as a single page web applic
 
 Link to repository: https://github.com/RaymondKADuncan/RevatureEventsApp
 
-The Revature Events App is a new way to gather and organize as a Revature employee. It enables the employees of revature to create, view, attend events, and get to know eachother in a more casual setting than the day to day workplace.
+A new way to gather and organize as a Revature employee. It enables the employees of revature to create, view, attend events, and get to know eachother in a more casual setting than the day to day workplace.
 
 ### Project 3 - RideForce Rideshare Application: ###
 
 Link to Repository: https://github.com/revaturelabs/rideshare-client
 
-RideForce is a mobile friendly single page ride-sharing web application in which employees can interact with eachother to determine rides in a simple, fun, and intuitive manner.
+A mobile friendly single page ride-sharing web application in which employees can interact with eachother to determine rides in a simple, fun, and intuitive manner.
 		
