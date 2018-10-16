@@ -1,5 +1,7 @@
 # Project 2: Revature Events Application #
 
+**Link to Repository:** https://github.com/RaymondKADuncan/RevatureEventsApp
+
 ### Description ###
 
 Revature has specific events for employees usually determined on a monthly basis. 
