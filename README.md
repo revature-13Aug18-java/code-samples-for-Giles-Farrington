@@ -1,5 +1,5 @@
 
-# Project Information #
+# My Projects #
 
 ### Project 0 - Banking Application: ###
 	
