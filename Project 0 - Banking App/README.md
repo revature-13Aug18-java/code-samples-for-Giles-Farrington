@@ -16,12 +16,12 @@ For this project the requirement was to create a mock banking ATM system. Projec
 ### Tech Stack ###
 
 * Build a rational database with Oracle SQL
-* Java 1.8 with Maven project
+* Maven project with Java 1.8
 * Utilize JDBC to establish connection with Java and rational database 
 * JDBC uses at least one of each: Statement, PreparedStatement, and CallableStatement for queries
 * Created multiple custom exceptions for user input
 * Within Maven project I have multiple layers/packages: 
-  * POJO's: My plain old java objects in this project I have two: BankAccount and Customer
+  * POJO's: My plain old Java objects: BankAccount and Customer
   * Util: Establishes connection to database with a ConnectionFactory class
   * DAO: Data Access Objects which interact with the database through JDBC
   * Service: Interacts with DAO methods
