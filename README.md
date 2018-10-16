@@ -7,7 +7,7 @@ A mock banking ATM system, with user interaction through only the console.
 
 ### Project 1 - Expense Reimbursement System: ###
 	
-Created an employee expense reimbursement system as a single page web application. 
+An employee expense reimbursement system implemented as a single page web application. 
 
 ### Project 2 - Revature Events Application: ###
 
@@ -19,5 +19,5 @@ The Revature Events App is a new way to gather and organize as a Revature employ
 
 Link to Repository: https://github.com/revaturelabs/rideshare-client
 
-RideForce is a mobile friendly single page ride-sharing web application in which employees can interact with eachother to determine rides in a simple and intuitive manner.
+RideForce is a mobile friendly single page ride-sharing web application in which employees can interact with eachother to determine rides in a simple, fun, and intuitive manner.
 		
