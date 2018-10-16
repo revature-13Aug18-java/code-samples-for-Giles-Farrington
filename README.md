@@ -13,7 +13,7 @@ For project one I created an employee expense reimbursement system as a single p
 
 Link to repository: https://github.com/RaymondKADuncan/RevatureEventsApp
 
-The Revature Events App is a new way to gather and organize as a Revature employee. It enables the employees of revature to create, view, and attend events and get to know eachother in a more casual setting than the day to day workplace.
+The Revature Events App is a new way to gather and organize as a Revature employee. It enables the employees of revature to create, view, attend events, and get to know eachother in a more casual setting than the day to day workplace.
 
 ### Project 3 - RideForce Rideshare Application: ###
 
