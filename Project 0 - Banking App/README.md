@@ -4,7 +4,7 @@
 
 For this project the requirement was to create a mock banking ATM system. Project zero was my first Revature project, thus the requirements were kept simple for the user interface although no use of frameworks were allowed so database connection was somewhat more complicated then later projects. Our goal for this project was to create a rational database with Oracle SQL and connect it to Java with JDBC. All user interaction is done through console, which is relatively simple compared to a single page web application, although there were many constraints to check for from user input.
 
-**Users are able to:**
+### User Stories ###
 
 * Create a user account with username and password
 * Login/logout with user account
