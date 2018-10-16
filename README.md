@@ -3,7 +3,7 @@
 
 ### Project 0 - Banking Application: ###
 	
-A mock banking ATM system, with user interaction through only the console.
+A mock banking ATM system Java program, with user interaction through only the console.
 
 ### Project 1 - Expense Reimbursement System: ###
 	
