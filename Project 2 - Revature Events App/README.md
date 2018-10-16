@@ -10,17 +10,17 @@ Our goal was to provide an electronic source to organize, view, and sign-up for 
 
 As a group project each of has had our own individual roles. Initially I helped create the Enitity Relationship Diagram for our database. Once the ERD was complete, I began to structure and implement the backend. I was also in charge of Dev-Ops during this project, so I set up an EC2 instance with Linux and installed all dependencies and SDK's required for project to run. Set up the EC2 with Tomcat to connect with Jenkins. Once jenkins was set up all of our backend code was automatically built on the pipeline after a push to our repository through a Github web hook and Slack would notify group of new build. I also set up our remote database through Amazon RDS. Our entire group was now able to connect to the RDS and EC2 instance for a true continuous integration environment. Finally, towards the end I helped out with the front-end using Angular.
 
-**Users are able to:**
+### User Stories ###
 
-* Access the application through their browser
-* Create an employee account 
-* Create a finance manager account
-* Login/logout with desired account type
-* Employee accounts can create reimbursement 
-* Employees can view previously submitted reimbursements and see whether they are pending, denied, or approved
-* Finance managers can view every submitted reimbursement request from all employees
-* Finance managers can filter reimbursements to only view pending 
-* Finance managers can approve or deny pending reimbursements 
+* Access application through browser
+* Create an account
+* Update account information
+* Login/logout with created account
+* View upcoming events on homepage
+* Create an event 
+* Search for specific events 
+* RSVP to an event 
+* View information and location of a specific event 
 
 ### Tech Stack ###
 
