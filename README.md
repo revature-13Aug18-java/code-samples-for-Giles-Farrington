@@ -3,11 +3,11 @@
 
 ### Project 0 - Banking Application: ###
 	
-My goal for project zero was to create a mock banking ATM system, with user interaction through only the console.
+A mock banking ATM system, with user interaction through only the console.
 
 ### Project 1 - Expense Reimbursement System: ###
 	
-For project one I created an employee expense reimbursement system as a single page web application. 
+Created an employee expense reimbursement system as a single page web application. 
 
 ### Project 2 - Revature Events Application: ###
 
