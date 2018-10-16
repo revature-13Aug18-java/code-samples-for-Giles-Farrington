@@ -30,10 +30,12 @@ I was placed within the Angular front-end group, thus all my work was focused on
 
 ### Tech Stack ###
 
+* Maven project utilizing Java 1.8
 * Relational database with Oracle SQL hosted on Amazon RDS
 * Pipeline utilizing Amazon EC2 and Jenkins
 * Spring Boot
 * Angular 4
+* Bootstrap
 * Amazon S3 for hosting web application
 
 
