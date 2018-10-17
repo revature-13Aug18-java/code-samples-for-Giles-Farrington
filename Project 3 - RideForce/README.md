@@ -32,7 +32,7 @@ I was placed within the Angular front-end group, thus all my work was focused on
 
 * Maven project utilizing Java 1.8
 * Relational database with Oracle SQL hosted on Amazon RDS
-* Pipeline utilizing
+* Pipeline:
    * Elastic cloud computing instance
    * Jenkins with Github integration
    * Linux
