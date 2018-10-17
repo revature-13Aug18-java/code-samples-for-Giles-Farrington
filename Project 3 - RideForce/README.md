@@ -34,7 +34,7 @@ I was placed within the Angular front-end group, thus all my work was focused on
 * Relational database with Oracle SQL hosted on Amazon RDS
 * Pipeline utilizing Amazon EC2 and Jenkins
 * Spring Boot
-* Angular 4
+* Angular 6
 * Bootstrap
 * Amazon S3 for hosting web application
 
