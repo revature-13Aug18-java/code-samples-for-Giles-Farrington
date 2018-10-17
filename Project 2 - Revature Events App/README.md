@@ -39,6 +39,6 @@ As a group project each of us has had our own individual roles. Initially I help
   * Repositories which extended JPARepository
   * Services which interacted with our repositories
   * Controllers which handled HTTP requests with our Angular front-end
-* Angular 4
+* Angular 6
 
 
