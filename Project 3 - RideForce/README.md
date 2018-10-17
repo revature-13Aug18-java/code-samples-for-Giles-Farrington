@@ -32,10 +32,22 @@ I was placed within the Angular front-end group, thus all my work was focused on
 
 * Maven project utilizing Java 1.8
 * Relational database with Oracle SQL hosted on Amazon RDS
-* Pipeline utilizing Amazon EC2 and Jenkins
+* Pipeline utilizing
+   * Elastic cloud computing instance
+   * Jenkins with Github integration
+   * Linux
+   * Tomcat
+   * S3 Bucket
+   * Sonar Cube
+   * Docker
+* Eureka
+* Zuul
 * Spring Boot
 * Angular 6
-* Bootstrap
-* Amazon S3 for hosting web application
+   * HTML
+   * CSS
+   * TypeScript
+   * Bootstrap
+
 
 
